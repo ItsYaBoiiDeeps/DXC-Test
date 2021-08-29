@@ -11,4 +11,4 @@ Instructions to run:
 4) Go to application.properties and edit the Database settings
 5) Run project as a Spring Boot App
 6) Open up a terminal, and redirect to "bookstore-frontend" downloaded location
-7) Start/ng serve the angular project and it should be run.
+7) Start/ng serve the angular project and it should be run on http://localhost:4200/
