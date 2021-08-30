@@ -10,5 +10,6 @@ Instructions to run:
 3) Import "bookstore" folder as a Maven project onto Eclipse IDE
 4) Go to application.properties and edit the Database settings
 5) Run project as a Spring Boot App
-6) Open up a terminal, and redirect to "bookstore-frontend" downloaded location
-7) Start/ng serve the angular project and it should be run on http://localhost:4200/
+6) Download angular files from another branch called master, https://github.com/ItsYaBoiiDeeps/DXC-Test/tree/master
+7) Open up a terminal, and redirect to downloadeded location of angular files
+8) Start/ng serve the angular project and it should be run on http://localhost:4200/
