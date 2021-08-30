@@ -1,0 +1,26 @@
+<div class="container">
+    <br>
+    <h3> View Book Details</h3>
+    <hr>
+
+    <div>
+        <label> <b> Book ISBN: </b></label> {{book.bookIsbn}}
+    </div>
+    <div>
+        <label> <b> Book Title: </b></label> {{book.bookTitle}}
+    </div>
+    <div>
+        <label> <b> Book Year: </b></label> {{book.bookYear}}
+    </div>
+    <div>
+        <label> <b> Book Price: </b></label> {{book.bookPrice | currency:'SGD'}}
+    </div>
+
+    <!-- <table>
+        <tr *ngFor="let temp of author">
+            <td>{{temp.authorName}}</td>
+        </tr>
+    </table> -->
+
+
+</div>
